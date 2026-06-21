@@ -64,7 +64,7 @@ I specialize in building full-stack applications and deploying machine learning 
 ## 🌟 Featured Project
 
 ### 🚀 EzResume
-> **A full-stack web application that uses artificial intelligence to transform raw form data into an ATS-friendly resume in seconds.**
+> **A full-stack web application that uses artificial intelligence to transform raw form data into an ATS-friendly resume in a few seconds.**
 
 | Frontend | Backend | Deployment / Hosting |
 | :--- | :--- | :--- |
