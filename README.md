@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hello! I'm **Wei Jin Gnoh**, a Master’s student in **Data Science** passionate about bridging the gap between intelligent data insights and robust software engineering. 
+Hello! I'm **Wei Jin Gnoh**, a Master’s student in **Data Science**. I am passionate about bridging the gap between intelligent data insights and robust software engineering. 
 
 I specialize in building full-stack applications and deploying machine learning models. Right now, I am focusing on expanding my toolkit by deep-diving into prompt engineering and advanced AI workflows to build smarter, context-aware technologies.
 
@@ -8,7 +8,7 @@ I specialize in building full-stack applications and deploying machine learning 
 
 ## 🚀 Quick Overview
 
-*   🔭 **Current Focus:** Developing full-stack web applications integrated with ML workflows.
+*   🔭 **Current Focus:** Developing full-stack web applications integrated with machine learning workflows.
 *   🌱 **Learning:** Prompt Engineering, LLM optimization, and cloud deployments.
 *   👯 **Open to Collaboration:** Open-source AI/ML tools or interesting full-stack projects.
 *   💬 **Ask Me About:** Data analysis pipelines, building with React/Vite, or setting up lightweight databases.
