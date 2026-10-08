@@ -75,7 +75,7 @@ I specialize in building full-stack applications and deploying machine learning 
 * 🧠 **Feature 2:** Engineered a seamless, highly intuitive user interface focused on optimizing the user journey from form input to final resume download.
 * 🗄️ **Feature 3:** Integrated Firebase Authentication and Firebase Realtime Database to securely manage user login credentials and synchronize user profile data.
 
-👉 [Check out the Live Demo!](https://www.ezresumeai.vercel.app)
+👉 [Check out the Live Demo!](https://ezresumeai.vercel.app)
 
 ---
 
